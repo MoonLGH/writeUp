@@ -174,7 +174,7 @@ const CustomImage = ({ src, alt, ...props }) => {
   
   // Logic: Ubah "./gambar.jpg" menjadi "/content/gambar.jpg"
   if (src && src.startsWith('./')) {
-    finalSrc = src.replace('./', './content/');
+    finalSrc = src.replace('./', './content/assets/');
   }
 
   return (

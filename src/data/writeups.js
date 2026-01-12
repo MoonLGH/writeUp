@@ -10,5 +10,11 @@ export const writeups = [
     title: "SFR1",
     description: "A Gopher is trapped in its burrow.",
     filename: "gopher.md"
+  },
+    {
+    id: "flagchecker",
+    title: "Flag Checker V2",
+    description: "A program to check for flag",
+    filename: "flagchecker.md"
   }
 ];

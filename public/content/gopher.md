@@ -2,6 +2,8 @@
 
 Investigasi forensik digital terhadap file gambar yang mengalami kerusakan (corruption) untuk memulihkan data rahasia yang tersembunyi.
 
+![Gambar](./broke.jpg)
+
 ## The Scenario
 
 Kami menerima sinyal darurat dari seekor Gopher yang terjebak di dalam "burrow" digitalnya. Laporan menyebutkan bahwa lingkungan tersebut membanjir dengan *corrupted data*.

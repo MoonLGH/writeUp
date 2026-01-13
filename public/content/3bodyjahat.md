@@ -262,3 +262,5 @@ Begitu PRNG direkonstruksi, seluruh ciphertext dapat didekripsi.
 > TBF1{evEN_newtoN_cOU1Dn7_SolVE_7H3_tHR3e_BODy_Pr0BlEM}
 
 This final code was a reconstructed from my v1 v2 v3 v4 v5 ... v10 iguess (this chall is evil)
+
+bonus vid this is explaination(kind of) https://youtu.be/-IHZVJ59UnA

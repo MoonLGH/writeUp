@@ -46,5 +46,11 @@ export const writeups = [
     title: "Pixel Peeping",
     description: "Can you give location of these image ?",
     filename: "pixel.md"
+  },
+            {
+    id: "easy4n6",
+    title: "Very Easy Forensic",
+    description: "Second Sanity Check ?",
+    filename: "easy4n6.md"
   }
 ];

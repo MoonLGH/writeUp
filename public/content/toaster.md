@@ -69,7 +69,6 @@ def solve():
         "fae4faedc4d7e1f2c4d7c0faede5c6ce"
         "c0d7faebcad2d8"
     )
-
     encrypted_bytes = bytes.fromhex(hex_data)
     key = 0xA5
     

@@ -52,5 +52,17 @@ export const writeups = [
     title: "Very Easy Forensic",
     description: "Second Sanity Check ?",
     filename: "easy4n6.md"
+  },
+           {
+    id: "unaas",
+    title: "Unnes as a service",
+    description: "SSH'ed to a server, find the flag",
+    filename: "unaas.md"
+  },
+           {
+    id: "toaster2",
+    title: "Smart Toaster V2",
+    description: "the toaster firmware is updated, please crack again",
+    filename: "toaster2.md"
   }
 ];

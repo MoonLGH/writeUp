@@ -64,5 +64,29 @@ export const writeups = [
     title: "Smart Toaster V2",
     description: "the toaster firmware is updated, please crack again",
     filename: "toaster2.md"
+  },
+             {
+    id: "santa",
+    title: "Santa Letter",
+    description: "Modern Latex is fun",
+    filename: "santa.md"
+  },
+               {
+    id: "employee",
+    title: "Employee validator",
+    description: "3 layer of validation for this",
+    filename: "employee.md"
+  },
+                 {
+    id: "savethebear",
+    title: "Save the bear(literally)",
+    description: "the bear need some snow",
+    filename: "savethebear.md"
+  },
+                   {
+    id: "3bodyjahat",
+    title: "Three body problem",
+    description: "THIS IS CHAOS ASF, evil",
+    filename: "3bodyjahat.md"
   }
 ];

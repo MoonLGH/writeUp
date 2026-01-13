@@ -136,7 +136,7 @@ const CustomLink = ({ href, children }) => {
   // Fix path jika artifact menggunakan relative path './'
   let finalHref = href;
   if (href && href.startsWith('./')) {
-    finalHref = href.replace('./', './content/');
+    finalHref = href.replace('./', './content/assets/');
   }
 
   // Jika text link adalah "DOWNLOAD_ARTIFACT", render tombol keren
